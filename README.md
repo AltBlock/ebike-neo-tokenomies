@@ -1,8 +1,4 @@
 <p align="center">
-  <img
-    src=""
-    width="125px"
-    alt="eBike - Contract">
     eBike Token Contract
 </p>
 
